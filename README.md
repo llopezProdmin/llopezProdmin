@@ -6,7 +6,7 @@
 
 <h3 align="center">Hello everyone, my name is Lombardo and I'm 34 years old, I develop on web, apps in kotlin, work on networking and server administration. My pasion is learn and improve my skills, thank you for reading my profile, work hard. 👨‍💻</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lombardolopez" alt="lombardolopez" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=llopezProdmin" alt="llopezProdmin" /> </p>
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
@@ -14,15 +14,13 @@
 
 - 👨‍💼 I develop for [GRUPO FERNANDEZ](https://reflex.com.sv/)
 
-- 🔭 I’m currently working on my project [BarberHot](https://github.com/lombardolopez/Prueba_de_Repositorio_1)
-
 - 🌱 I’m currently learning **React.js**
 
 <!-- - 👯 I’m looking to collaborate on [CensorLabel](https://github.com/AkhilGKrishnan/CensorLabel)
 
 - 👨‍💻 All of my projects are available at [https://akhilgkrishnan.me](https://akhilgkrishnan.me) -->
 
-- 📫 How to reach me **lombardolopez@hotmail.com**
+- 📫 How to reach me **lalopez@prodmin.com**
 
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
@@ -32,12 +30,8 @@
   <div align="center"  class="icons-social" style="margin-left: 10px;">
         <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/lombardo-lópez-a28a0a127">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/lombardolopez">
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/llopezProdmin">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/lombarlal/">
-			<img src="https://img.icons8.com/?size=40&id=Xy10Jcu1L2Su&format=png&color=000000"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://x.com/LombardoES7">
-			<img src="https://img.icons8.com/?size=40&id=6Fsj3rv2DCmG&format=png&color=FFFFFF" ></a>
       </div>
 
 </p>
